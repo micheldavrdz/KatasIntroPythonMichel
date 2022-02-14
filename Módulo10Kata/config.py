@@ -25,6 +25,8 @@
 #     except IsADirectoryError:
 #         print("Se encontro el archivo config.txt, pero no se puede leer")
 
+## En este ejercicio anterior no se logro abrir el archivo config.txt, imagino que IsADirectoryError busca una carpeta y no un archivo.
+
 # if __name__ == '__main__':
 #     main()
 
